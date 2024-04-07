@@ -22,6 +22,8 @@ git clone https://github.com/ultralytics/yolov5
 pip install -r requirements.txt
 ```
 
+``` Note: If 'Custom_object_detection_using_yolov5' notebook does not open, refer to https://learnopencv.com/custom-object-detection-training-using-yolov5/ ```
+
 ### Acknowledgements
 - YOLOv5 is developed by Ultralytics LLC. Visit the official repository for more information.
 - This implementation is based on the original YOLOv5 codebase.
