@@ -12,12 +12,13 @@ This repository contains an implementation of YOLOv5, a state-of-the-art object 
 - The model is trained on a subset of the PascalVoc2012 dataset.
 - Follow the notebook to train your own model on a custom dataset.
 - In the notebook the directory 'working' is created inside the yolov5 directory.
-  ```
-  git clone https://github.com/ultralytics/yolov5
-   ```
-  ```
-  pip install -qr requirements.txt
-  ```
+
+```
+git clone https://github.com/ultralytics/yolov5
+```
+```
+pip install -qr requirements.txt
+```
 
 ### Acknowledgements
 - YOLOv5 is developed by Ultralytics LLC. Visit the official repository for more information.
