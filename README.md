@@ -9,15 +9,17 @@ This repository contains an implementation of YOLOv5, a state-of-the-art object 
 - State-of-the-Art Performance: YOLOv5 achieves state-of-the-art performance on standard object detection benchmarks, including COCO.
 
 ### Model
-- The model is trained on a subset of the PascalVoc2012 dataset. For detailed analysis of this dataset visit: https://github.com/SabihShah/Pascal-VOC-2012-Analysis
-- Follow the notebook to train your own model on a custom dataset.
-- In the notebook the directory 'working' is created inside the yolov5 directory.
+The Custom_Object_Detection_using_YOLOv5.ipynb Jupyter Notebook contains all the code and is one-click runnable. The experiments available in the notebook are:
+- Training a small YOLOv5 model.
+- Training a medium YOLOv5 model.
+- Training a medium YOLOv5 model by freezing the first 15 blocks.
+Follow the notebook to train your own model on a custom dataset.
 
 ```
 git clone https://github.com/ultralytics/yolov5
 ```
 ```
-pip install -qr requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Acknowledgements
