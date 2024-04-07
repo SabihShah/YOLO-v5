@@ -9,7 +9,7 @@ This repository contains an implementation of YOLOv5, a state-of-the-art object 
 - State-of-the-Art Performance: YOLOv5 achieves state-of-the-art performance on standard object detection benchmarks, including COCO.
 
 ### Model
-- The model is trained on a subset of the PascalVoc2012 dataset.
+- The model is trained on a subset of the PascalVoc2012 dataset. For detailed analysis of this dataset visit: https://github.com/SabihShah/Pascal-VOC-2012-Analysis
 - Follow the notebook to train your own model on a custom dataset.
 - In the notebook the directory 'working' is created inside the yolov5 directory.
 
